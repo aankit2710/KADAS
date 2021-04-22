@@ -17,6 +17,7 @@
     "surge": "^0.21.3",
     "tiny-cookie": "^2.3.2",
     "vue": "^2.6.11",
+    "vue-advanced-chat": "^0.8.4",
     "vue-cookies": "^1.7.0",
     "vue-easy-lightbox": "^0.13.0",
     "vue-excel-export": "^0.1.3",
